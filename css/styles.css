@@ -1,0 +1,143 @@
+body {
+  margin: 0px;
+  font-family: serif;
+  font-size: 15px;
+}
+
+h1 {
+  margin: 70px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h3 {
+  color: #11999e;
+  text-align: left;
+  font-size: 30px;
+}
+
+hr {
+  width: 50px;
+  border: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: gray;
+}
+
+p {
+  text-align: left;
+  line-height: 2;
+  font-size: 25px;
+}
+
+.P-Tittle {
+  text-align: center;
+}
+
+.top-container {
+  text-align: center;
+  background-color: #CDF0EA;
+  padding-top: 60px;
+  position: relative;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 500px;
+  top: 10px;
+}
+
+.Second-section {
+  margin: 50px auto 100px auto;
+  position: relative;
+  text-align: center;
+  width: 70%;
+  font-size: 25px;
+  color: #40514e;
+}
+
+.Chronitos, .Computer, .Chillies {
+  border-radius: 100%;
+  width: 250px;
+  margin-top: 5%;
+}
+
+.T1 {
+  margin-bottom: 100px;
+}
+
+.Computer {
+  float: left;
+  margin-right: 20px;
+  position: relative;
+  bottom: 70px;
+}
+
+.Chillies {
+  float: right;
+  margin-left: 20px;
+  position: relative;
+  bottom: 70px;
+}
+
+.Third-section {
+  margin: 50px auto 100px auto;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  width: 70%;
+}
+
+.Fourth-section {
+  margin: 150px auto 100px auto;
+  text-align: center;
+  font-size: 25px;
+  position: relative;
+  width: 70%;
+  line-height: 3;
+}
+
+.Fifth-section {
+  text-align: center;
+  width: 70%;
+  margin: 0px auto;
+  line-height: 2;
+}
+
+.h3-center, .P-center {
+  text-align: center;
+}
+
+.Final-section {
+  background-color: #66bfbf;
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 50px;
+  line-height: 3;
+}
+a{
+  color: #11999e;
+  text-decoration: none;
+  position: relative;
+  top: 15px;
+  margin: 0 10px 0 10px;
+}
+
+.p-last{
+  font-size: 20px;
+  text-align: center;
+  color: #eaf6f6;
+}
